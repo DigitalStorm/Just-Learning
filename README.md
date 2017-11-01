@@ -1,2 +1,1 @@
-# Just-Learning
-self explanitary
+print (hello)
